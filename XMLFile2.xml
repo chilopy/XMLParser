@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Car Number="40001992">
+		<Item>
+			<Component>Автосцепка</Component>
+			<Position>1</Position>
+			<Number>47698</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Автосцепка</Component>
+			<Position>2</Position>
+			<Number>48451</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>КБД</Component>
+			<Position>1</Position>
+			<Number>111023266</Number>
+		</Item>
+		<Item>
+			<Component>КБД</Component>
+			<Position>2</Position>
+			<Number>111023244</Number>
+		</Item>
+		<Item>
+			<Component>Колёса</Component>
+			<Type>957-190-2-В-2</Type>
+			<Position></Position>
+		</Item>
+		<Item>
+			<Component>Колёса</Component>
+			<Type>957-190-2-В-2</Type>
+			<Position>957-190-2-В-2</Position>
+		</Item>
+		<Item>
+			<Component>Колёсная пара</Component>
+			<Type>РУ1Ш-957-Г</Type>
+			<Position>1</Position>
+			<Number>285082</Number>
+			<DateCreate>2019-11-11</DateCreate>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<FactoryExamId>0005</FactoryExamId>
+			<FactoryExamShortName>ОАО 'НПК'Уралвагонзавод''</FactoryExamShortName>
+			<FactoryExam>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</FactoryExam>
+			<DateExam>2019-10-10</DateExam>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+			<AdditionalAttributeName>Толщина обода лев\пр</AdditionalAttributeName>
+			<AdditionalAttributeValue>72 \ 72</AdditionalAttributeValue>
+		</Item>
+		<Item>
+			<Component>Колёсная пара</Component>
+			<Type>РУ1Ш-957-Г</Type>
+			<Position>2</Position>
+			<Number>285344</Number>
+			<DateCreate>2019-11-11</DateCreate>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<FactoryExamId>0005</FactoryExamId>
+			<FactoryExamShortName>ОАО 'НПК'Уралвагонзавод''</FactoryExamShortName>
+			<FactoryExam>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</FactoryExam>
+			<DateExam>2019-10-10</DateExam>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+			<AdditionalAttributeName>Толщина обода лев\пр</AdditionalAttributeName>
+			<AdditionalAttributeValue>71 \ 71</AdditionalAttributeValue>
+		</Item>
+		<Item>
+			<Component>Колёсная пара</Component>
+			<Type>РУ1Ш-957-Г</Type>
+			<Position>3</Position>
+			<Number>268897</Number>
+			<DateCreate>2019-11-11</DateCreate>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<FactoryExamId>0005</FactoryExamId>
+			<FactoryExamShortName>ОАО 'НПК'Уралвагонзавод''</FactoryExamShortName>
+			<FactoryExam>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</FactoryExam>
+			<DateExam>2019-10-10</DateExam>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+			<AdditionalAttributeName>Толщина обода лев\пр</AdditionalAttributeName>
+			<AdditionalAttributeValue>72 \ 72</AdditionalAttributeValue>
+		</Item>
+		<Item>
+			<Component>Колёсная пара</Component>
+			<Type>РУ1Ш-957-Г</Type>
+			<Position>4</Position>
+			<Number>285188</Number>
+			<DateCreate>2019-10-10</DateCreate>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<FactoryExamId>0005</FactoryExamId>
+			<FactoryExamShortName>ОАО 'НПК'Уралвагонзавод''</FactoryExamShortName>
+			<FactoryExam>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</FactoryExam>
+			<DateExam>2019-10-10</DateExam>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+			<AdditionalAttributeName>Толщина обода лев\пр</AdditionalAttributeName>
+			<AdditionalAttributeValue>74 \ 74</AdditionalAttributeValue>
+		</Item>
+		<Item>
+			<Component>Ось</Component>
+			<Type>РУ1Ш</Type>
+			<Position>1</Position>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Ось</Component>
+			<Type>РУ1Ш</Type>
+			<Position>2</Position>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Ось</Component>
+			<Type>РУ1Ш</Type>
+			<Position>3</Position>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Ось</Component>
+			<Type>РУ1Ш</Type>
+			<Position>4</Position>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Поглощающий аппарат </Component>
+			<Type>73 ZW</Type>
+			<Position>1</Position>
+			<Number>25451</Number>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Поглощающий аппарат </Component>
+			<Type>73 ZW</Type>
+			<Position>2</Position>
+			<Number>25449</Number>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Пружины</Component>
+			<Type>Вагонмаш</Type>
+			<Position></Position>
+		</Item>
+		<Item>
+			<Component>Тележка</Component>
+			<Type>18-100</Type>
+			<Position>1</Position>
+			<Number>22173</Number>
+			<Year>2019</Year>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка</Component>
+			<Type>18-100</Type>
+			<Position>2</Position>
+			<Number>22142</Number>
+			<Year>2019</Year>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка балка надрессорная</Component>
+			<Position>1</Position>
+			<Number>23485</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка балка надрессорная</Component>
+			<Position>2</Position>
+			<Number>25021</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка рама боковая</Component>
+			<Position>1 левая</Position>
+			<Number>51507</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка рама боковая</Component>
+			<Position>1 правая</Position>
+			<Number>51369</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка рама боковая</Component>
+			<Position>2 левая</Position>
+			<Number>51882</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка рама боковая</Component>
+			<Position>2 правая</Position>
+			<Number>51412</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+	</Car>
+	<Car Number="40002099">
+		<Item>
+			<Component>Автосцепка</Component>
+			<Position>1</Position>
+			<Number>47726</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Автосцепка</Component>
+			<Position>2</Position>
+			<Number>48427</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>КБД</Component>
+			<Position>1</Position>
+			<Number>111021178</Number>
+		</Item>
+		<Item>
+			<Component>КБД</Component>
+			<Position>2</Position>
+			<Number>111021179</Number>
+		</Item>
+		<Item>
+			<Component>Колёса</Component>
+			<Type>957-190-2-В-2</Type>
+			<Position></Position>
+		</Item>
+		<Item>
+			<Component>Колёса</Component>
+			<Type>957-190-2-В-2</Type>
+			<Position>957-190-2-В-2</Position>
+		</Item>
+		<Item>
+			<Component>Колёсная пара</Component>
+			<Type>РУ1Ш-957-Г</Type>
+			<Position>1</Position>
+			<Number>294854</Number>
+			<DateCreate>2019-12-12</DateCreate>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<FactoryExamId>0005</FactoryExamId>
+			<FactoryExamShortName>ОАО 'НПК'Уралвагонзавод''</FactoryExamShortName>
+			<FactoryExam>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</FactoryExam>
+			<DateExam>2019-12-12</DateExam>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+			<AdditionalAttributeName>Толщина обода лев\пр</AdditionalAttributeName>
+			<AdditionalAttributeValue>72 \ 72</AdditionalAttributeValue>
+		</Item>
+		<Item>
+			<Component>Колёсная пара</Component>
+			<Type>РУ1Ш-957-Г</Type>
+			<Position>2</Position>
+			<Number>295051</Number>
+			<DateCreate>2019-12-12</DateCreate>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<FactoryExamId>0005</FactoryExamId>
+			<FactoryExamShortName>ОАО 'НПК'Уралвагонзавод''</FactoryExamShortName>
+			<FactoryExam>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</FactoryExam>
+			<DateExam>2019-12-12</DateExam>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+			<AdditionalAttributeName>Толщина обода лев\пр</AdditionalAttributeName>
+			<AdditionalAttributeValue>72 \ 72</AdditionalAttributeValue>
+		</Item>
+		<Item>
+			<Component>Колёсная пара</Component>
+			<Type>РУ1Ш-957-Г</Type>
+			<Position>3</Position>
+			<Number>295774</Number>
+			<DateCreate>2019-12-12</DateCreate>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<FactoryExamId>0005</FactoryExamId>
+			<FactoryExamShortName>ОАО 'НПК'Уралвагонзавод''</FactoryExamShortName>
+			<FactoryExam>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</FactoryExam>
+			<DateExam>2019-12-12</DateExam>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+			<AdditionalAttributeName>Толщина обода лев\пр</AdditionalAttributeName>
+			<AdditionalAttributeValue>70 \ 71</AdditionalAttributeValue>
+		</Item>
+		<Item>
+			<Component>Колёсная пара</Component>
+			<Type>РУ1Ш-957-Г</Type>
+			<Position>4</Position>
+			<Number>295765</Number>
+			<DateCreate>2019-12-12</DateCreate>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<FactoryExamId>0005</FactoryExamId>
+			<FactoryExamShortName>ОАО 'НПК'Уралвагонзавод''</FactoryExamShortName>
+			<FactoryExam>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</FactoryExam>
+			<DateExam>2019-12-12</DateExam>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+			<AdditionalAttributeName>Толщина обода лев\пр</AdditionalAttributeName>
+			<AdditionalAttributeValue>75 \ 74</AdditionalAttributeValue>
+		</Item>
+		<Item>
+			<Component>Ось</Component>
+			<Type>РУ1Ш</Type>
+			<Position>1</Position>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Ось</Component>
+			<Type>РУ1Ш</Type>
+			<Position>2</Position>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Ось</Component>
+			<Type>РУ1Ш</Type>
+			<Position>3</Position>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Ось</Component>
+			<Type>РУ1Ш</Type>
+			<Position>4</Position>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Поглощающий аппарат </Component>
+			<Type>73 ZW</Type>
+			<Position>1</Position>
+			<Number>25423</Number>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Поглощающий аппарат </Component>
+			<Type>73 ZW</Type>
+			<Position>2</Position>
+			<Number>25458</Number>
+			<Year>2019</Year>
+		</Item>
+		<Item>
+			<Component>Пружины</Component>
+			<Type>Вагонмаш</Type>
+			<Position></Position>
+		</Item>
+		<Item>
+			<Component>Тележка</Component>
+			<Type>18-100</Type>
+			<Position>1</Position>
+			<Number>22421</Number>
+			<Year>2019</Year>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка</Component>
+			<Type>18-100</Type>
+			<Position>2</Position>
+			<Number>22422</Number>
+			<Year>2019</Year>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка балка надрессорная</Component>
+			<Position>1</Position>
+			<Number>24710</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка балка надрессорная</Component>
+			<Position>2</Position>
+			<Number>24731</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка рама боковая</Component>
+			<Position>1 левая</Position>
+			<Number>52864</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка рама боковая</Component>
+			<Position>1 правая</Position>
+			<Number>52909</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка рама боковая</Component>
+			<Position>2 левая</Position>
+			<Number>52884</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+		<Item>
+			<Component>Тележка рама боковая</Component>
+			<Position>2 правая</Position>
+			<Number>52015</Number>
+			<Year>2019</Year>
+			<FactoryId>0005</FactoryId>
+			<FactoryShortName>ОАО 'НПК'Уралвагонзавод''</FactoryShortName>
+			<Factory>Открытое акционерное общество 'Научно-производственная корпорация 'Уралвагонзавод' имени Ф.Э. Дзержинского</Factory>
+			<CountryId>20</CountryId>
+			<Country>Российская Федерация</Country>
+		</Item>
+	</Car>
+</Root>
