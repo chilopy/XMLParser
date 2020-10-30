@@ -2,6 +2,8 @@
 using System.Xml.Linq;
 using System.Collections.Generic;
 using System.Linq;
+using NVX.RZD.DataModel.Common;
+using Nvx.Rzd.Entities.CarPassportClasses;
 
 namespace xml_parse
 {
